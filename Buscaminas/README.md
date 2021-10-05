@@ -25,7 +25,6 @@ Para cada campo, imprime el mensaje Field#x: en una línea sola, donde x indica 
 
 ### _Ejemplo_
 
-Dillinger is currently extended with the following plugins.
 El siguiente es un ejemplo de entradas y la respectiva salida esperada
 
 ```sh
