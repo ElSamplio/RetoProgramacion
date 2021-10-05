@@ -11,7 +11,6 @@ Dentro de cada una de las carpetas encontrarás la explicación del respectivo p
 Clona este repositorio en tu cuenta (fork) y trabaja sobre tu repositorio; por favor no cargues nada a este repositorio.
 
 - Emplea el lenguaje con el que te sientas más cómodo
-- 
 - Documenta métodos y/o funciones
 - Las entradas y salidas deberán ser únicamente por consola
 - Ante cualquier inquietud, por favor comunícate con el encargado de tu selección
