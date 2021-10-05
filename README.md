@@ -15,4 +15,4 @@ Clona este repositorio en tu cuenta (fork) y trabaja sobre tu repositorio; por f
 - Las entradas y salidas deberán ser únicamente por consola
 - Ante cualquier inquietud, por favor comunícate con el encargado de tu selección
 
-#¡Muchos éxitos! :)
+# ¡Muchos éxitos! :)
