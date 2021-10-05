@@ -9,9 +9,9 @@ De este modo, le ha pedido a su hija Claudia que haga una inspección sorpresa d
 
 ### _Entrada_
 
-La primera línea contiene un número que indica el número de casos de prueba que aparecen a continuación.
+La primera línea contiene un número que indica el número de casos de prueba que aparecen a continuación. 
 
-Cada caso de prueba se compone de dos líneas. En la primera aparece un único entero con el número de personas que están en la cola cuando Claudia hace la inspección (entre 1 y 500.000). En la segunda aparecen los números que tienen cada una de esas personas según están en la cola, números entre 1 y 106, todos distintos (nadie ha llegado aún hasta el extremo de falsificar los números). Eso sí, pueden faltar números, porque hay personas que ya han sido atendidas o personas que se cansaron de esperar y se marcharon.
+Cada caso de prueba se compone de dos líneas. En la primera aparece un único entero con el número de personas que están en la cola cuando Claudia hace la inspección (entre 1 y 500.000). En la segunda aparecen los números que tienen cada una de esas personas según están en la cola, números entre 1 y 10⁶, todos distintos (nadie ha llegado aún hasta el extremo de falsificar los números). Eso sí, pueden faltar números, porque hay personas que ya han sido atendidas o personas que se cansaron de esperar y se marcharon.
 
 ### _Salida_
 
